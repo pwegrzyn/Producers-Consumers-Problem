@@ -1,0 +1,14 @@
+
+# Program config file
+
+number_of_producers: 10
+number_of_consumers: 10
+pointer_array_size: 5
+source_file: PrideAndPrejudice-JaneAusten.txt
+magic_number_length: 4
+search_mode: 0
+log_mode: 0
+nk: 0
+
+# search_mode = {-1 : LESS_THAN | 0 : EQUAL | 1 : GREATER_THAN }
+# log_mode = {0 : SIMPLIFIED | 1 : FULL}
